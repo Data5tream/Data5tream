@@ -2,7 +2,9 @@
   <p>
   <a href="https://linkedin.com/in/simonstbarth">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a><br>
+  <a href="https://ko-fi.com/V7V71JMH8">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-Fi Badge"/>
   </p>
   <p>
   <img src="https://streak-stats.demolab.com?user=data5tream&theme=vue-dark&date_format=j%20M%5B%20Y%5D" />
