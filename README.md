@@ -22,7 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/shopware/shopware-original.svg" title="Shopware" alt="Shopware" width="42" height="42"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="42" height="42"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="42" height="42"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="2" height="42"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="42" height="42"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuestorefront/vuestorefront-original.svg" title="Vue Storefront" alt="Vue Storefront" width="42" height="42"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="42" height="42"/>
   <hr>
