@@ -10,9 +10,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
   </a>
   </p>
-  <p>
-  <img src="https://streak-stats.demolab.com?user=data5tream&theme=vue-dark&date_format=j%20M%5B%20Y%5D" />
-  </p>
   <hr>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="42" height="42"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="42" height="42"/>
