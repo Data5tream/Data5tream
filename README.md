@@ -1,7 +1,4 @@
 <div align="center">
-  <p>
-    <a href="https://data5tream.github.io" target="_blank">data5tream.github.io</a>
-  <p>
   <a href="https://linkedin.com/in/simonstbarth">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
   </a>
