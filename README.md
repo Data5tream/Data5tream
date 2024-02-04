@@ -1,9 +1,6 @@
 Hi! :man_technologist:
 
 I'm Simon Barth, a full-stack developer currently based in the Munich Metropolitan Region.
-
-I'm currently focused on learning Rust, but I also enjoy working with Python and TypeScript.
-
 <div align="center">
   <hr>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="42" height="42"/>
